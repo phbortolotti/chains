@@ -1,3 +1,3 @@
 # Chains
 
-Uma pequena implementação de blockchain para entendimento de seu funcionamento
+Implementação minimalista de blockchain para entendimento de seu funcionamento.
